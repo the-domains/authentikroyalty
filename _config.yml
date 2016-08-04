@@ -1,3 +1,4 @@
+favicon: null
 name: AuthentikRoyalty
 opengraph:
   image: null
@@ -9,31 +10,30 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.6344086
   brandStrength: 0.9050179
-  lightness: 0.5358423
+  rhythmicContrast: 0.7616488
   brandColors:
     - '#020106'
     - '#EFE6D7'
     - '#432A3F'
     - '#5A4652'
     - '#666671'
-  rhythmicContrast: 0.7616488
+  lightness: 0.5358423
 typography_spectrum: 0.7724015
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.3566308
-favicon: null
+layout_spectrum: 0.9444444
 analytics:
   twitter: null
   google: null
