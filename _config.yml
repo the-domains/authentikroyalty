@@ -1,41 +1,41 @@
-name: AuthentikRoyalty
-favicon: null
-layout_spectrum: 0.9444444
-typography_spectrum: 0.7724015
+title: Young AUTHENTIK Brand
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Young AUTHENTIK Brand
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.5752688
+  brandStrength: 0.7311828
+  lightness: 0.7329749
+  brandColors:
+    - '#E5DEC1'
+    - '#9C983D'
+    - '#11101E'
+    - '#71521C'
+    - '#D7DF05'
+  rhythmicContrast: 0.7616488
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: AuthentikRoyalty
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E3E8E4'
-    - '#C0BDB6'
-    - '#0B0A10'
-    - '#3B3B3B'
-    - '#646665'
-  brandStrength: 0.7311828
-  lightness: 0.7329749
-  saturation: 0.5752688
-  rhythmicContrast: 0.7616488
-purpose: []
+typography_spectrum: 0.7724015
+layout_spectrum: 0.9444444
